@@ -5,7 +5,7 @@ This project is a Bash-based system monitoring tool (`sys_monitor.sh`) designed 
 
 ## Key Features
 * **Threshold Configuration**: Easily adjustable limits for disk (80%), memory (70%), and CPU load
-* **Automated Logging**: All checks are timestamped and saved to a daily log file located in `$HOME/sysmon_logs`.
+* **Automated Logging**: All checks are timestamped and saved to a daily log file.
 * **Log Rotation**: Automatically removes log files older than 7 days to save disk space[.
 * **Command-line Flags**: Supports `-v` / `--verbose` for full system reports and `-q` / `--quiet` to suppress terminal output.
 
