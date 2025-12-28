@@ -17,7 +17,7 @@ To comply with standard Linux conventions for automation and error handling, the
 ## Sample Run & Implementation Verification
 Since this lab requires verification of a successful run, I have provided screen recordings of the script in action:
 
-1. **Direct GitHub File**: You can find the recording file titled `sample_run_demo.mp4` in this repository.
+1. **Direct GitHub File**: You can find the recording file titled `Sample Run.mov` in this repository.
 2. **External Backup (Dropbox)**: https://www.dropbox.com/scl/fi/856520pws52t46ss4ze13/Sample-run.mov?rlkey=kib7rr4q7e2zzo7auqshxs0z2&st=s1hhfpjw&dl=0
 
 ## How to Run
